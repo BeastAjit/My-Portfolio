@@ -1,0 +1,21 @@
+/* Style the entire webpage */
+body {
+    background-color: rgb(160, 199, 233);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+    color: rgb(82, 94, 105);
+}
+
+/* Changing Colour of H1 & H2*/
+
+h1
+{
+    color: rgb(141, 61, 216);
+}
+
+/* Style Github */
+div {
+    text-decoration:rgb(47, 113, 255) underline;
+
+}
